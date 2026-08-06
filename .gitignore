@@ -1,0 +1,40 @@
+# Saidas do compilador Delphi
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+*.lib
+*.a
+*.o
+*.ocx
+
+# Arquivos locais do Delphi/RAD Studio
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+*.dsv
+*.stat
+
+# Historicos e backups automaticos do Delphi
+__history/
+__recovery/
+*.~*
+
+# Diretorios de compilacao deste projeto
+/Build/
+/Projeto/Win32/
+/Projeto/Win64/
+
+# Logs gerados em execucao
+*.log
